@@ -15,15 +15,14 @@ Edite e adicione os endereços que deseja rastrear.
 
 Run
 ---
-Find out the present value in USD of the addresses in addresses.json:
+Descubra o valor presente em dólares dos endereços em addresses.json:
 
     node app
 
-Notes
+Notas
 -----
-This package first gets the current USD / BTC price from Bitfinex. Support 
-for other exchanges isn't yet available.
+Este pacote obtém primeiro o preço atual em USD / BTC da Bitfinex. O suporte para outras trocas ainda não está disponível.
 
-This tool also relies on [Insight from BitPay](https://github.com/bitpay/insight). You can run your own copy of 
-Insight locally so you aren't "tipping your hand" to the world about your
-cold storage addresses.
+Esta ferramenta também depende de [Insight from BitPay](https://github.com/bitpay/insight). 
+Você pode executar sua própria cópia do Insight localmente para não "denunciar" ao mundo sobre o seu
+endereços de armazenamento frio.
