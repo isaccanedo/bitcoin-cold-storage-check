@@ -1,18 +1,17 @@
 # bitcoin-cold-storage-check
-Display the amount of bitcoin stored in cold storage addresses. Uses api.bitfinex.com 
-and insight.bitpay.com for data.
+Exibe a quantidade de bitcoin armazenado em endereços de armazenamento refrigerado. Usa api.bitfinex.com e insight.bitpay.com para dados.
 
 Setup
 -----
-Start by installing the dependancies:
+Comece instalando as dependências:
 
     npm install
 
-Copy the addresses.json.example to addresses.json:
+Copie o addresses.json.example para addresses.json:
 
     cp addresses.json.example addresses.json
 
-Edit and add the addresses you wish to track.
+Edite e adicione os endereços que deseja rastrear.
 
 Run
 ---
