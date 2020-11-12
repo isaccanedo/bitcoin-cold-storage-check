@@ -1,4 +1,4 @@
-# bitcoin-cold-storage-check
+# Verificação de armazenamento de Bitcoin
 Exibe a quantidade de bitcoin armazenado em endereços de armazenamento refrigerado. Usa api.bitfinex.com e insight.bitpay.com para dados.
 
 Setup
